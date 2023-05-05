@@ -37,8 +37,6 @@ var saveBtn = $(".saveBtn");
 //Onclick, save the value of all items to local storage
 saveBtn.on("click", function (e) {
     e.preventDefault();
-    confirmationMsg.html("Appointment Added with <code>localStorage</code> ✅");
-    confirmationMsg.attr("style", "text-align: center; font-size: 12px");
     hourNineVal = hourNineText.val();
     hourTenVal = hourTenText.val();
     hourElevenVal = hourElevenText.val();
