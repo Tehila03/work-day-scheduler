@@ -7,4 +7,6 @@ Each input will remain when you refresh as long as you clicked the blue save but
 # Live link
 https://tehila03.github.io/work-day-scheduler/
 
+
+
 ![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/125328462/236366733-3fe8c528-2ce8-404e-a9f7-70dd70ac91c1.gif)
